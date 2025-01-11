@@ -2,7 +2,7 @@
     "api": "1",
     "type": "anime",
     "name": "AnFuns",
-    "version": "0.1",
+    "version": "10.1",
     "muliSources": true,
     "useWebview": true,
     "useNativePlayer": true,
