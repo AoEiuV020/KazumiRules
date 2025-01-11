@@ -2,7 +2,7 @@
     "api": "1",
     "type": "anime",
     "name": "kimani",
-    "version": "0.0.1",
+    "version": "10.0.1",
     "muliSources": true,
     "useWebview": true,
     "useNativePlayer": true,
