@@ -2,7 +2,7 @@
     "api": "1",
     "type": "anime",
     "name": "mwcy",
-    "version": "0.0.6",
+    "version": "10.0.6",
     "muliSources": true,
     "useWebview": true,
     "useNativePlayer": true,
