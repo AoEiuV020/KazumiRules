@@ -2,7 +2,7 @@
     "api": "1",
     "type": "anime",
     "name": "DM84",
-    "version": "1.0",
+    "version": "11.0",
     "muliSources": true,
     "useWebview": true,
     "useNativePlayer": true,
